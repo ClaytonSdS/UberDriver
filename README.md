@@ -1,5 +1,5 @@
 # UberDriver
-A personal data analysis project to earn the Google Data Analytics certificate.
+A personal data analysis project to earn the [Google Data Analytics Certificate](https://coursera.org/share/a9f03d8bbe403b6699735916df844066).
 
 ## About the data
 The data was collected when I was working as an Uber driver in September 2023 and for privacy reasons, users information was deleted.
@@ -14,3 +14,4 @@ The data was collected when I was working as an Uber driver in September 2023 an
 It is concluded that the main variables affecting profitability are neighborhood locations and weekdays. Therefore, with the goal of maximizing profitability and effective working time, it is recommended to position oneself near central regions since these areas are more likely to yield profit as well as more profitable rides.
 
 Regarding weekdays, it is concluded that during the early weekdays, to achieve higher revenue, it will be necessary to carry out a greater number of rides. This is because, as indicated by the data, the trend is low revenue followed by a high number of rides per day.
+
