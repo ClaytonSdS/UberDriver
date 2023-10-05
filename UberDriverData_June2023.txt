@@ -1,0 +1,223 @@
+"date";"ride_starting_time";"origin";"destination";"total_price_brl";"dynamic_price";"distance_in_meters";"duration_in_seconds"
+"Monday, June 12th, 2023"; 07:36; Jardim Sao Marcos; Centro; 11.63; 0.0; 6000; 721
+"Monday, June 12th, 2023"; 11:26; Vila Cordula; Centro; 5.51; 0.0; 1800; 427
+"Monday, June 12th, 2023"; 11:40; Centro; Gaivota; 31.36; 0.0; 8400; 1534
+"Monday, June 12th, 2023"; 12:12; Vista Alegre; Vila Diniz; 8.26; 0.0; 3500; 466
+"Monday, June 12th, 2023"; 17:03; 15090-120; Jardim Herculano; 10.19; 0.0; 3600; 1007
+"Tuesday, June 13th, 2023"; 07:23; Parque Residencial Mansur Daud; Jardim Marajo; 17.08; 0.0; 9600; 952
+"Tuesday, June 13th, 2023"; 07:40; Sao Deocleciano; Jardim Santa Maria; 14.25; 0.0; 7500; 1040
+"Tuesday, June 13th, 2023"; 09:28; Jardim Conceicao; Centro; 7.96; 0.0; 3400; 630
+"Tuesday, June 13th, 2023"; 11:20; Alto Rio Preto; Bela Vista; 16.33; 0.0; 8500; 1389
+"Tuesday, June 13th, 2023"; 11:20; Alto Rio Preto; Bela Vista; 16.33; 0.0; 8500; 1389
+"Tuesday, June 13th, 2023"; 12:28; Santa Cruz; Sao Deocleciano; 11.61; 0.0; 5700; 720
+"Tuesday, June 13th, 2023"; 14:12; 15055-410; Santa Cruz; 7.57; 0.0; 3000; 543
+"Tuesday, June 13th, 2023"; 14:59; 15091-210; Boa Vista; 8.54; 0.0; 3300; 755
+"Tuesday, June 13th, 2023"; 16:12; 15091-210; Boa Vista; 7.17; 0.0; 3200; 636
+"Tuesday, June 13th, 2023"; 16:49; Jardim Santa Maria; Parque Jaguare; 16.02; 0.0; 8600; 924
+"Tuesday, June 13th, 2023"; 17:28; Jardim Santa Maria; Parque Jaguare; 9.80; 0.0; 4600; 837
+"Wednesday, June 14th, 2023"; 07:19; Vila Toninho; Jardim Maracana; 18.58; 0.0; 10100; 913
+"Wednesday, June 14th, 2023"; 07:37; 15091-320; Vila Mayor; 14.83; 0.0; 7300; 1190
+"Wednesday, June 14th, 2023"; 10:44; Parque Juruti; Vila Nossa Senhora da Paz; 13.50; 0.0; 7100; 1126
+"Wednesday, June 14th, 2023"; 11:33; Boa Vista; Boa Vista; 6.06; 0.0; 400; 125
+"Wednesday, June 14th, 2023"; 11:43; Boa Vista; Residencial Nato Vetorasso; 14.31; 0.0; 7400; 935
+"Wednesday, June 14th, 2023"; 12:04; Residencial Nato Vetorasso; Belvedere; 25.36; 2.25; 20300; 1422
+"Wednesday, June 14th, 2023"; 12:33; Vila Sao Jorge; Centro; 19.29; 1.50; 9700; 1241
+"Wednesday, June 14th, 2023"; 13:07; Centro; Bela Vista; 22.37; 0.0; 10700; 1660
+"Wednesday, June 14th, 2023"; 15:29; 15076-760; 15051-355; 16.31; 0.0; 9100; 788
+"Wednesday, June 14th, 2023"; 16:36; Parque Industrial; Schimidt; 24.31; 0.0; 14700; 1693
+"Wednesday, June 14th, 2023"; 17:38; Centro; 15047-279; 18.38; 2.0; 7700; 1781
+"Thursday, June 15th, 2023"; 07:39; Jardim Nazareth; Centro; 19.15; 8.0; 4900; 1320
+"Thursday, June 15th, 2023"; 09:01; Vila Ideal; Parque Residencial Damha; 6.87; 0.0; 2700; 347
+"Thursday, June 15th, 2023"; 09:42; Jardim Vale do Sol; Jardim Santa Maria; 14.29; 0.0; 7100; 1050
+"Thursday, June 15th, 2023"; 10:18; Gaivota; Joao Paulo II; 11.99; 0.0; 6500; 758
+"Thursday, June 15th, 2023"; 11:34; Vila Redentora; 15092-601; 10.06; 0.0; 4700; 637
+"Thursday, June 15th, 2023"; 11:48; Vila Aeroporto; 15054-000; 13.07; 0.0; 6000; 1031
+"Thursday, June 15th, 2023"; 12:38; Jardim Santa Rosa II; Jardim Aclimacao; 22.95; 2.50; 11900; 1067
+"Thursday, June 15th, 2023"; 13:04; Jardim Vivendas; Centro; 10.13; 0.0; 4500; 787
+"Thursday, June 15th, 2023"; 13:23; Vila Redentora; Taraf II; 8.64; 0.0; 3300; 517
+"Thursday, June 15th, 2023"; 14:38; Vila Toninho; Boa Vista; 16.01; 0.0; 8000; 821
+"Thursday, June 15th, 2023"; 15:10; Jardim Morumbi; Centro; 9.38; 0.0; 3300; 856
+"Thursday, June 15th, 2023"; 15:31; Centro; Vila Sao Jose; 6.49; 0.0; 2300; 566
+"Thursday, June 15th, 2023"; 15:57; Sao Francisco; Jardim Nunes; 20.41; 0.0; 11600; 1769
+"Thursday, June 15th, 2023"; 16:38; Conjunto Habitacional Sao Jose do Rio Preto; Centro; 13.54; 0.0; 6800; 859
+"Thursday, June 15th, 2023"; 17:01; Vila Redentora; Jardim Alto Alegre; 11.76; 0.0; 5100; 952
+"Thursday, June 15th, 2023"; 17:26; Boa Vista; Jardim Morumbi; 11.60; 0.0; 5300; 1339
+"Thursday, June 15th, 2023"; 17:57; Jardim Walkiria; Jardim Nunes; 22.54; 0.0; 11200; 2798
+"Friday, June 16th, 2023"; 07:19; Sao Deocleciano; Centro; 14.27; 3.50; 5000; 870
+"Friday, June 16th, 2023"; 07:41; Centro; Vila Sao Jose; 7.98; 0.0; 3200; 664
+"Friday, June 16th, 2023"; 07:58; 15085-440; 15035-110; 12.89; 0.0; 7500; 984
+"Friday, June 16th, 2023"; 08:32; Jardim Maracana; Jardim Seyon; 16.89; 0.0; 8200; 1180
+"Friday, June 16th, 2023"; 08:57; Jardim do Bosque; Jardim Redentor; 12.96; 0.0; 6500; 1095
+"Friday, June 16th, 2023"; 11:16; Centro; Vila Ideal; 6.95; 0.0; 2600; 488,
+"Friday, June 16th, 2023"; 11:47; Vila Maceno; Esplanada; 7.70; 0.0; 3000; 544
+"Friday, June 16th, 2023"; 11:59; Boa Vista; Jardim Nunes; 13.52; 0.0; 6700; 961
+"Friday, June 16th, 2023"; 12:35; Boa Vista; Vila Italia; 10.85; 0.0; 5000; 867
+"Friday, June 16th, 2023"; 12:55; Vila Aeroporto; Vila Sao Jose; 7.01; 0.0; 2600; 674
+"Friday, June 16th, 2023"; 13:09; Vila Sao Jose; Vila Elvira; 13.96; 0.0; 7100; 775
+"Friday, June 16th, 2023"; 15:20; Centro; Jardim Alto Alegre; 5.96; 0.0; 2200; 388
+"Friday, June 16th, 2023"; 16:02; Vila Imperial; Parque Res. Dom Lafaiete Libanio; 14.40; 0.0; 6900; 1200
+"Friday, June 16th, 2023"; 16:45; Centro; Jardim Alto Alegre; 10.79; 0.0; 4700; 971
+"Friday, June 16th, 2023"; 17:16; Centro; Jardim Alto Alegre; 8.38; 1.0; 2800; 367
+"Friday, June 16th, 2023"; 17:33; Estancia Santa Helena; Jardim Maria Lucia; 19.98; 0.00; 10800; 1376
+"Friday, June 16th, 2023"; 18:18; Centro; Vila Toninho; 20.01; 2.50; 7500; 992
+"Monday, June 19th, 2023"; 07:00; Parque Residencial Mansur Daud; Jardim Marajo; 12.93; 1.00; 6500; 714
+"Monday, June 19th, 2023"; 07:27; Parque Residencial da Solidariedade; Gaivota; 20.80; 3.00; 9800; 1209
+"Monday, June 19th, 2023"; 08:06; Estancia Santa Helena; Jardim America; 9.11; 0.0; 4400; 448
+"Monday, June 19th, 2023"; 08:33; Jardim Conceicao; Vila Sao Jose; 12.65; 0.0; 6100; 857
+"Monday, June 19th, 2023"; 09:00; Santos Dumont; Higienopolis; 9.67; 0.0; 4300; 774
+"Monday, June 19th, 2023"; 11:30; Boa Vista; Vila Toninho; 16.11; 0.0; 8100; 1026
+"Monday, June 19th, 2023"; 11:52; Vila Toninho; Bairro Iguatemi; 19.81; 0.0; 11800; 975
+"Monday, June 19th, 2023"; 13:37; Schimidt; Santos Dumont; 21.74; 0.0; 13000; 920
+"Monday, June 19th, 2023"; 14:54; Vila Redentora; Jardim Antonieta; 14.13; 0.0; 6800; 1105
+"Monday, June 19th, 2023"; 15:42; Universitario; Vila Santa Cruz; 8.66; 0.0; 3600; 669
+"Monday, June 19th, 2023"; 15:55; Vila Santo Antonio; Parque Residencial Damha; 13.15; 0.0; 7000; 702
+"Monday, June 19th, 2023"; 16:26; Vila Bom Jesus; Jardim Marajo; 13.73; 0.0; 6700; 742
+"Monday, June 19th, 2023"; 16:38; Roseiral; Sao Deocleciano; 11.12; 0.0; 5500; 532
+"Monday, June 19th, 2023"; 17:05; Jardim Primavera; Centro; 13.40; 0.0; 7000; 834
+"Monday, June 19th, 2023"; 17:24; Santa Cruz; Nova Redentora; 8.14; 0.0; 3500; 752
+"Monday, June 19th, 2023"; 18:01; Parque Quinta das Paineiras; Vila Toninho; 10.29; 0.0; 5000; 727
+"Wednesday, June 21st, 2023"; 07:14; Schimidt; Vila Sinibaldi; 21.02; 0.0; 11200; 909
+"Wednesday, June 21st, 2023"; 07:38; Bom Jardim; 15091-060; 6.64; 0.0; 2600; 435
+"Wednesday, June 21st, 2023"; 08:51; Tarraf II; Chacara Municipal; 8.32; 0.0; 3700; 544
+"Wednesday, June 21st, 2023"; 11:37; Centro; Vila Sao Pedro; 6.33; 0.0; 2200; 463
+"Wednesday, June 21st, 2023"; 11:51; Vila Sao Jose; Centro; 10.52; 0.0; 4100; 675
+"Wednesday, June 21st, 2023"; 14:26; Higienopolis; Solo Sagrado; 17.49; 0.0; 7800; 1436
+"Wednesday, June 21st, 2023"; 15:08; Jardim Alto Rio Preto; Jardim Fuscaldo; 11.15; 0.0; 5100; 923
+"Wednesday, June 21st, 2023"; 16:07; 15081-510; Higienopolis; 9.34; 0.0; 2800; 408
+"Wednesday, June 21st, 2023"; 16:23; Redentor; Vila Elvira; 9.85; 0.0; 4300; 707
+"Wednesday, June 21st, 2023"; 16:43; Vila Redentora; Jardim Morumbi; 8.00; 0.0; 2600; 506
+"Wednesday, June 21st, 2023"; 17:00; Jardim Panorama; Sao Francisco; 9.26; 0.0; 3900; 638
+"Wednesday, June 21st, 2023"; 17:16; Vila Sinibaldi; Parque das Amoras II; 25.68; 0.0; 14900; 1550
+"Thursday, June 22nd, 2023"; 07:33; Higienopolis; Jardim Panorama; 6.08; 0.0; 2400; 405
+"Thursday, June 22nd, 2023"; 07:47; Jardim Bosque da Saude; Boa Vista; 8.17; 0.0; 3300; 616
+"Thursday, June 22nd, 2023"; 08:09; Conjunto Habitacional Costa do Sol; Jardim Vivendas; 16.68; 0.0; 8600; 1364
+"Thursday, June 22nd, 2023"; 08:38; Jardim Vivendas; Bom Jardim; 7.72; 0.0; 3400; 511
+"Thursday, June 22nd, 2023"; 09:17; Cidade Nova; Jardim Canaa; 9.55; 0.0; 4100; 745
+"Thursday, June 22nd, 2023"; 09:49; Vila Maceno; Jardim Nunes; 17.49; 1.0; 9500; 805
+"Thursday, June 22nd, 2023"; 10:17; Residencial Três Marias; 15053-753; 16.95; 0.0; 9700; 711
+"Thursday, June 22nd, 2023"; 10:42; Nova Redentora; Parque Residencial Mansur Daud; 7.30; 0.0; 3500; 471
+"Thursday, June 22nd, 2023"; 11:04; Parque Residencial Mansur Daud; Vila Redentora; 7.38; 0.0; 3300; 516
+"Thursday, June 22nd, 2023"; 11:17; Vila Redentora; Vila Redentora; 5.58; 0.0; 600; 142
+"Thursday, June 22nd, 2023"; 11:33; Jardim Morumbi; Jardim Alto Alegre; 14.60; 0.0; 7600; 1275
+"Thursday, June 22nd, 2023"; 11:55; Jardim Municipal; Redentor; 14.70; 0.0; 8100; 647
+"Thursday, June 22nd, 2023"; 12:39; Boa Vista; Vila Ercilia; 7.43; 0.0; 2800; 583
+"Thursday, June 22nd, 2023"; 14:01; Sao Manoel; Jardim Panorama; 5.76; 0.0; 1500; 300
+"Thursday, June 22nd, 2023"; 14:10; Jardim Tarraf; Vila Sao Jose; 5.76; 0.0; 2000; 311
+"Thursday, June 22nd, 2023"; 14:24; Nova Redentora; Higienopolis; 5.51; 0.0; 1700; 362
+"Thursday, June 22nd, 2023"; 15:02; Bairro Iguatemi; Vila Sao Joao; 8.00; 0.0; 3800; 344
+"Thursday, June 22nd, 2023"; 16:30; Tarraf II; Tarraf II; 5.51; 0.0; 1800; 257
+"Thursday, June 22nd, 2023"; 16:43; Centro; Vila Clementina; 16.02; 0.0; 6900; 1424
+"Thursday, June 22nd, 2023"; 17:29; Gaivota; Vila Imperial; 19.37; 0.0; 10800; 1109
+"Thursday, June 22nd, 2023"; 17:54; Centro; Lealdade e Amizade; 20.96; 0.0; 10900; 1711
+"Friday, June 23rd, 2023"; 06:57; Schimidt; Jardim Vivendas; 37.14; 0.0; 19300; 2648
+"Friday, June 23rd, 2023"; 07:48; Jardim Vivendas; Centro; 10.04; 0.0; 4300; 663
+"Friday, June 23rd, 2023"; 08:16; Jardim Conceicao; Rod. Assis Chateaubriand; 18.88; 0.0; 10700; 915
+"Friday, June 23rd, 2023"; 08:55; Jardim Santo Antonio; Vila Curti; 20.08; 2.25; 9300; 1319
+"Friday, June 23rd, 2023"; 09:22; Jardim Alto Rio Preto; Vila Sao Jose; 5.81; 0.0; 2200; 372
+"Friday, June 23rd, 2023"; 11:02; Vila Sao Joao; Centro; 9.66; 0.0; 4000; 915
+"Friday, June 23rd, 2023"; 11:21; Centro; Sao Francisco; 9.86; 0.0; 4400; 676
+"Friday, June 23rd, 2023"; 11:45; Vila Sao Jose; Centro; 6.08; 0.0; 2000; 637
+"Friday, June 23rd, 2023"; 12:00; Centro; Schimidt; 21.96; 0.0; 12900; 1207
+"Friday, June 23rd, 2023"; 13:46; Fraternidade 2; Schimidt; 10.84; 0.0; 4900; 594
+"Friday, June 23rd, 2023"; 14:16; Parque Residencial Damha; Centro; 15.59; 0.0; 8200; 1141
+"Friday, June 23rd, 2023"; 14:48; Centro; Eldorado; 9.13; 0.0; 4100; 661
+"Friday, June 23rd, 2023"; 15:32; Parque Residencial Damha; Jardim Fuscaldo; 9.90; 2.25; 3500; 454
+"Friday, June 23rd, 2023"; 16:04; Residencial Quinta do Lago; Sao Deocleciano; 10.40; 0.0; 4900; 496
+"Friday, June 23rd, 2023"; 16:26; Gaivota; Res. Caetano; 23.54; 0.0; 13200; 1454
+"Friday, June 23rd, 2023"; 17:15; Jardim Yolanda; Jardim Residencial Vetorasso; 18.54; 1.0; 9100; 1245
+"Friday, June 23rd, 2023"; 17:15; Parque Industrial; Belvedere; 18.41; 0.0; 8300; 1369
+"Monday, June 26th, 2023"; 07:02; Jardim Sao Marcos; Vila Lisboa; 13.79; 0.0; 8500; 815
+"Monday, June 26th, 2023"; 07:19; Vila Anchieta; Chacara Municipal; 13.04; 0.0; 6100; 1044
+"Monday, June 26th, 2023"; 07:42; Higienopolis; Jardim Paulista; 11.98; 0.0; 6200; 700
+"Monday, June 26th, 2023"; 08:06; Jardim Tarraf; Centro; 9.30; 0.0; 4000; 615
+"Monday, June 26th, 2023"; 08:20; Lot. Clube V; Vila Bom Jesus; 11.55; 0.0; 5200; 749
+"Monday, June 26th, 2023"; 08:53; 15061-000; 15020-080; 10.80; 0.0; 5300; 882
+"Monday, June 26th, 2023"; 09:16; Vila Imperial; 15025-010; 6.51; 0.0; 2500; 414
+"Monday, June 26th, 2023"; 09:31; Santos Dumont; Vila Sao Jose; 5.85; 0.0; 2400; 554
+"Monday, June 26th, 2023"; 10:24; Loteamento Clube V; Jardim Herculano; 10.99; 0.0; 5900; 746
+"Monday, June 26th, 2023"; 10:46; Santos Dumont; Jardim Nazareth; 15.28; 1.0; 6900; 1047
+"Monday, June 26th, 2023"; 11:11; Parque das Flores; Vila Sinibaldi; 14.36; 0.0; 6300; 853
+"Monday, June 26th, 2023"; 12:39; Schimidt; Vila Zilda; 22.88; 0.0; 12900; 1246
+"Monday, June 26th, 2023"; 13:14; Centro; Jardim Soraia; 9.73; 0.0; 3900; 735
+"Monday, June 26th, 2023"; 13:49; Vila Sao Jose; Higienopolis; 6.75; 0.0; 2100; 377
+"Monday, June 26th, 2023"; 14:53; Nova Redentora; Bady Bassitt; 20.58; 0.0; 12900; 1047
+"Monday, June 26th, 2023"; 15:45; Vila Santa Cruz; Vila Sao Joao; 10.02; 0.0; 4500; 934
+"Monday, June 26th, 2023"; 16:04; Jardim Panorama; Jardim Sao Marcos; 12.00; 0.0; 5900; 433
+"Monday, June 26th, 2023"; 16:26; Vila Redentora; Jardim Vivendas; 11.57; 0.0; 4200; 801
+"Monday, June 26th, 2023"; 16:45; Jardim Vivendas; Condominio Village Flamboyant; 5.51; 0.0; 1900; 235
+"Monday, June 26th, 2023"; 16:59; Jardim Morumbi; Schimidt; 18.38; 0.0; 10100; 983
+"Monday, June 26th, 2023"; 17:38; Av. Jose Vieira Machado Junior, SN - Sem Bairro; Bairro Iguatemi; 24.71; 1.25; 14100; 1134
+"Tuesday, June 27th, 2023"; 07:09; Conjunto Habitacional Sao Jose do Rio Preto; Bairro Redentora; 15.68; 0.0; 9600; 1259
+"Tuesday, June 27th, 2023"; 07:39; Cedral; Jardim Morumbi; 37.14; 0.0; 20100; 1306
+"Tuesday, June 27th, 2023"; 08:49; Vila Elmaz; Nova Redentora; 19.39; 0.0; 9100; 1483
+"Tuesday, June 27th, 2023"; 09:34; Higienopolis; Vila Aeroporto; 12.91; 0.0; 6000; 759
+"Tuesday, June 27th, 2023"; 10:18; Centro; Centro; 5.68; 0.0; 1500; 294
+"Tuesday, June 27th, 2023"; 10:53; Vila Diniz; Centro; 5.67; 0.0; 2000; 342
+"Tuesday, June 27th, 2023"; 11:37; Redentora; Jardim Paulista; 9.21; 0.0; 3800; 568
+"Tuesday, June 27th, 2023"; 11:55; Jardim dos Seixas; Jardim Vista Alegre; 7.50; 0.0; 3200; 424
+"Tuesday, June 27th, 2023"; 13:52; Fraternidade 2; Vila Aeroporto; 26.20; 3.0; 14200; 820
+"Tuesday, June 27th, 2023"; 15:08; Jardim Fuscaldo; Vila Redentora; 12.24; 0.0; 6300; 676
+"Tuesday, June 27th, 2023"; 15:36; Jardim Vivendas; Vila Bancarios; 6.29; 0.0; 2300; 358
+"Tuesday, June 27th, 2023"; 16:28; Gaivota; Distrito Industrial I; 22.68; 0.0; 13300; 1181
+"Tuesday, June 27th, 2023"; 16:55; Jardim Novo Aeroporto; Bairro Novo Mundo; 12.06; 0.0; 6700; 754
+"Tuesday, June 27th, 2023"; 17:09; Vila Sao Jose; Jardim Nunes; 22.22; 0.0; 17100; 1689
+"Wednesday, June 28th, 2023"; 07:24; Conjunto Habitacional Sao Jose do Rio Preto; Jardim Alto Alegre; 10.94; 0.0; 3700; 374
+"Wednesday, June 28th, 2023"; 07:36; Jardim Nazareth; Parque Sao Miguel; 9.43; 0.0; 4400; 634
+"Wednesday, June 28th, 2023"; 07:46; Sao Deocleciano; Santa Cruz; 11.98; 0.0; 6000; 826
+"Wednesday, June 28th, 2023"; 09:09; Vila Sinibaldi; Centro; 6.80; 0.0; 1600; 275
+"Wednesday, June 28th, 2023"; 09:54; Centro; Boa Vista; 5.62; 0.0; 2100; 581
+"Wednesday, June 28th, 2023"; 10:07; Boa Vista; Jardim Vivendas; 12.00; 0.0; 5600; 885
+"Wednesday, June 28th, 2023"; 10:31; Vila Redentora; Residencial Santa Ana; 18.15; 0.0; 9600; 1291
+"Wednesday, June 28th, 2023"; 11:00; Jardim Suzana; Vila Redentora; 11.22; 0.0; 5400; 697
+"Wednesday, June 28th, 2023"; 11:17; Vila Redentora; Res. Jardins; 13.55; 0.0; 6200; 890
+"Wednesday, June 28th, 2023"; 12:32; Centro; Vila Redentora; 6.20; 0.0; 2100; 671
+"Wednesday, June 28th, 2023"; 12:46; Vila Redentora; Boa Vista; 7.36; 0.0; 2900; 655
+"Wednesday, June 28th, 2023"; 15:57; Parque Residencial Damha; Vila Sinibaldi; 12.36; 0.0; 6500; 771
+"Wednesday, June 28th, 2023"; 16:19; Vila Sao Jose; Bady Bassitt; 15.77; 0.0; 8800; 696
+"Wednesday, June 28th, 2023"; 16:53; Tarraf II; Santos Dumont; 8.65; 0.0; 3800; 669
+"Wednesday, June 28th, 2023"; 17:05; Vila Bancarios; Parque Residencial Romano Calil; 12.47; 0.0; 6000; 658
+"Wednesday, June 28th, 2023"; 17:29; Jardim Soraia; Vila Fioresi; 11.45; 0.0; 5900; 523
+"Wednesday, June 28th, 2023"; 17:38; Redentora; Sao Francisco; 8.40; 0.0; 3000; 556
+"Wednesday, June 28th, 2023"; 17:55; Nova Redentora; Residencial Cidade Jardim; 10.02; 0.0; 4700; 539
+"Wednesday, June 28th, 2023"; 18:10; Residencial Cidade Jardim; Centro; 11.23; 1.25; 5000; 756
+"Wednesday, June 28th, 2023"; 18:33; Centro; Residencial Cidade Jardim; 14.17; 0.0; 6700; 1327
+"Thursday, June 29th, 2023"; 07:30; Belvedere; Jardim Paulista; 11.46; 0.0; 5300; 668
+"Thursday, June 29th, 2023"; 07:39; Jardim America; Redentora; 10.07; 0.0; 4600; 954
+"Thursday, June 29th, 2023"; 08:33; Jardim Sonia; Vila Nossa Senhora da Paz; 9.12; 0.0; 4700; 742
+"Thursday, June 29th, 2023"; 10:20; Higienopolis; Vila Angelica; 10.92; 0.0; 4900; 836
+"Thursday, June 29th, 2023"; 11:33; Jardim Walkiria; Vila Sinibaldi; 5.66; 0.0; 2100; 314
+"Thursday, June 29th, 2023"; 11:47; Jardim Walkiria; Vila Sinibaldi; 6.16; 0.0; 2300; 420
+"Thursday, June 29th, 2023"; 12:03; Jardim Maracana; Centro; 10.56; 0.0; 4200; 819
+"Thursday, June 29th, 2023"; 12:23; Parque Celeste; Jardim Santa Luzia; 8.29; 0.0; 3300; 619
+"Thursday, June 29th, 2023"; 15:08; Jardim Marajo; Higienopolis; 20.01; 0.0; 11600; 1004
+"Thursday, June 29th, 2023"; 15:35; Redentora; Jardim Nazareth; 13.92; 0.0; 6800; 1070
+"Thursday, June 29th, 2023"; 16:05; Vila Elvira; Vila Boa Esperança; 14.24; 0.0; 4600; 736
+"Thursday, June 29th, 2023"; 17:00; Parque Quinta das Paineiras; Jardim Morumbi; 10.45; 0.0; 5000; 682
+"Thursday, June 29th, 2023"; 17:07; Jardim Morumbi; Parque Residencial Maria Zorita; 16.29; 0.0; 7400; 1398
+"Thursday, June 29th, 2023"; 17:48; Jardim Canaa; Centro; 6.74; 0.0; 2900; 561
+"Thursday, June 29th, 2023"; 18:00; Vila Bancarios; Vila Toninho; 17.47; 0.0; 10200; 1633
+"Friday, June 30th, 2023"; 07:05; Estância Nossa Sra. de Fátima; Jardim Maracana; 23.75; 0.0; 16900; 1606
+"Friday, June 30th, 2023"; 07:45; Higienopolis; Jardim Urano; 6.39; 0.0; 2600; 415
+"Friday, June 30th, 2023"; 07:52; Jardim Urano; Vila Bom Jesus; 6.85; 0.0; 2700; 576
+"Friday, June 30th, 2023"; 08:15; Parque Estoril; Parque Estoril; 5.51; 0.0; 1500; 269
+"Friday, June 30th, 2023"; 08:23; Vila Nosso Senhor do Bonfim; Centro; 9.07; 0.0; 3900; 805
+"Friday, June 30th, 2023"; 08:40; Vila Anchieta; Centro; 8.08; 0.0; 3300; 579
+"Friday, June 30th, 2023"; 09:33; Roseiral; Jardim Maracana; 12.14; 0.0; 6300; 622
+"Friday, June 30th, 2023"; 10:33; Vila Sao Jose; Bela Vista; 24.18; 0.0; 12900; 1881
+"Friday, June 30th, 2023"; 11:31; Vila Imperial; Vila Ercilia; 7.29; 0.0; 2700; 537
+"Friday, June 30th, 2023"; 11:40; Vila Santa Cruz; Boa Vista; 6.61; 0.0; 2700; 484
+"Friday, June 30th, 2023"; 11:54; Parque Industrial; Vila Bancarios; 7.83; 0.0; 2800; 608
+"Friday, June 30th, 2023"; 12:07; Vila Bancarios; Vila Curti; 5.51; 0.0; 1600; 345
+"Friday, June 30th, 2023"; 12:20; Jardim Maria Candida; Vila Santa Cruz; 11.03; 0.0; 5000; 973
+"Friday, June 30th, 2023"; 14:20; Parque Estoril; Vila Sinibaldi; 5.51; 0.0; 1100; 215
+"Friday, June 30th, 2023"; 14:28; Jardim Europa; Boa Vista; 8.12; 0.0; 3100; 502
+"Friday, June 30th, 2023"; 16:14; Chacara Municipal; Parque Residencial Romano Calil; 13.86; 0.0; 6200; 737
+"Friday, June 30th, 2023"; 16:46; Vila Sao Judas Tadeu; Jardim Soraia; 7.56; 2.0; 1400; 254
+"Friday, June 30th, 2023"; 17:00; Vila Redentora; Lauriano Tebar; 11.99; 2.25; 3300; 747
+"Friday, June 30th, 2023"; 17:18; Santos Dumont; Centro; 8.96; 0.0; 2300; 507
+"Friday, June 30th, 2023"; 17:31; Vila Redentora; Bom Jardim; 6.32; 0.0; 2300; 546
+"Friday, June 30th, 2023"; 17:47; Bom Jardim; Jardim Walkiria; 7.26; 1.75; 1000; 277
+"Friday, June 30th, 2023"; 17:50; Boa Vista; Vila Sao Jose; 9.25; 1.50; 4000; 642
+"Friday, June 30th, 2023"; 18:06; Nova Redentora; Jardim Maracana; 11.27; 5.50; 2000; 535
+"Friday, June 30th, 2023"; 18:15; Parque Tecnológico; Vila Sao Jose; 11.13; 1.25; 4700; 579
+
